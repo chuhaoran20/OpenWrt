@@ -28,6 +28,7 @@
 - 感谢[tuanqing](https://github.com/tuanqing/mknop)大神提供的一键打包脚本
 - 感谢[Hyy2001X](https://github.com/Hyy2001X/AutoBuild-Actions)大神，定时升级固件来源于此大神
 - 感谢[hyird](https://github.com/hyird/Action-Openwrt)大神，是这仁兄告诉我有patch补丁这回事的
+- 感谢[MCydia](https://github.com/MCydia/OpenWrt)大神无私分享
 - 感谢微软免费提供的编译平台
 - 感谢各位大佬提供的各种各样的插件
 - 由衷感谢所有为openwrt无私奉献的大佬们
@@ -43,7 +44,7 @@
 
  -  自动每7天更新一次，手动不定时更新
 
- -  ip：10.10.10.251 密码：为空
+ -  ip：10.10.10.51 密码：为空
 ## 其他
 
 AdGuardHome更新核心的时候如果遇见‘A task is already running.’这个显示的话，请用命令来更新核心，
